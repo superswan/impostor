@@ -12,12 +12,20 @@ https://nmap.org/book/nmap-defenses-trickery.html#nmap-defenses-os-spoofing
 profiles are defined in ```profiles.ini``` 
 
 # Screenshots
+
+## Linux
 ### Before:
 [![nmap-ubuntu-1.png](https://i.postimg.cc/htvhTgXt/nmap-ubuntu-1.png)](https://postimg.cc/VJyYPx9x)
 ### After:
 [![nmap-ubuntu-2.png](https://i.postimg.cc/6pZJD1Sh/nmap-ubuntu-2.png)](https://postimg.cc/zyqchpqL)
 
 unfortunately the results are currently far form perfect. will most likely have to play with the window size on linux
+
+## Windows
+### Before:
+[![nmap-windows.png](https://i.postimg.cc/3RqNXg8N/nmap-windows.png)](https://postimg.cc/CBjwYnfp)
+### After:
+[![nmap-windows-2.png](https://i.postimg.cc/CLkCKK7k/nmap-windows-2.png)](https://postimg.cc/HVW8Zdfk)
 
 # TODO
 windows version
