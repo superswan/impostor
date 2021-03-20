@@ -15,7 +15,7 @@ profiles are defined in ```profiles.ini```
 ### Before:
 [![nmap-ubuntu-1.png](https://i.postimg.cc/htvhTgXt/nmap-ubuntu-1.png)](https://postimg.cc/VJyYPx9x)
 ### After:
-[![nmap-ubuntu-2.png](https://i.postimg.cc/Cx9M88yc/nmap-ubuntu-2.png)](https://postimg.cc/0zdqRbyS)
+[![nmap-ubuntu-2.png](https://i.postimg.cc/6pZJD1Sh/nmap-ubuntu-2.png)](https://postimg.cc/zyqchpqL)
 
 unfortunately the results are currently far form perfect. will most likely have to play with the window size on linux
 
