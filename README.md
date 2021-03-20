@@ -28,4 +28,5 @@ unfortunately the results are currently far form perfect. will most likely have 
 [![nmap-windows-2.png](https://i.postimg.cc/CLkCKK7k/nmap-windows-2.png)](https://postimg.cc/HVW8Zdfk)
 
 # TODO
-windows version
+~~windows version~~
+* Continue research and explore advanced methods involing things like spoofed services
